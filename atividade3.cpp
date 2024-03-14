@@ -1,0 +1,77 @@
+#include<stdio.h>
+#include<stdio.h>
+
+int main(){
+//	setlocale(LC_All, "Portuguese");
+// Primeiro exercicio
+
+//	char medicamento1[20];
+//	char medicamento2[20];
+//	float venda1, venda2 ;
+//	
+//	printf("Joao, digite o medicamento numero 1: ");
+//	scanf("%s",medicamento1);
+//	
+//	printf("Digite o valor do medicamento 1: ");
+//	scanf("%f",&venda1);
+//	
+//	 printf("Seu João, o medicamento: %s esta no valor de %.1f\n", medicamento1, venda1);
+//    
+//		
+//	printf("Digite o medicamento numero 2: ");
+//	scanf("%s",medicamento2);
+//	
+//	printf("Digite o valor do medicamento 2: ");
+//	scanf("%f",&venda2);
+//	
+// printf("Seu João, o medicamento: %s esta no valor de %.1f\n", medicamento2, venda2);
+//
+//Segundo exercicio
+    
+//    char nome[20];
+//    int dependentes;
+//    char cargo [10];
+//    
+//    printf("Olá, qual é seu nome? ");
+//    scanf("%s", nome);
+//    
+//    printf("%s, quantos dependentes você tem?", nome);
+//    scanf("%d", dependentes);
+//    
+//    printf ("%s, qual é seu cargo?", nome);
+//    scanf("%s", cargo);
+//    
+//        printf("Prezado %s, do cargo %s, tem %d dependentes.\n", nome, cargo, dependentes);
+//	
+	
+//
+//Terceiro Exercicio
+	float areaS, baseS, alturaS, baseI, alturaI, areaI, areatotal ;
+	
+	printf("Digite o numero da base superior: ");
+	scanf("%f",&baseS);
+	
+	printf("Digite o numero da altura superior: ");
+	scanf("%f",&alturaS);
+	
+	areaS = (baseS * alturaS) / 2
+	
+	printf("A area do retangulo superior é igual: %.1f", areaS)
+	
+	printf("Digite o numero da base inferior: ");
+	scanf("%f",&baseI);
+	
+	printf("Digite o numero da altura inferior: ");
+	scanf("%f",&alturaI);
+	
+	
+	
+	
+	
+	
+
+
+}
+ 
+ 
+
